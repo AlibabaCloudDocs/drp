@@ -29,7 +29,7 @@ Python 3.6
 
 说明：如果是本地测试，初始化AlgModelManager时需要的用户相关信息（tenant，user\_id，access\_id， access\_key\)可以在AIMaster右上角的用户信息里拿到：
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/155560/156776657346990_zh-CN.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/155560/156809752346990_zh-CN.png)
 
 实例代码：
 

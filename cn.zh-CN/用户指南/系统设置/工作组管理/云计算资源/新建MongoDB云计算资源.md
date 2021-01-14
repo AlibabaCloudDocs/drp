@@ -1,0 +1,35 @@
+# 新建MongoDB云计算资源
+
+本章节为您介绍如何新建MongoDB云计算资源。
+
+您已经购买MongoDB云计算资源，并完成MongoDB快速入门，详细操作参见：[MongoDB快速入门](https://help.aliyun.com/document_detail/54260.html?spm=a2c4g.11174283.6.568.2c9b6c7d0gu0Uq)
+
+添加MongoDB云计算资源为使用数据资源平台做数据支撑。
+
+1.  登录[数据资源平台控制台](https://dataq.console.aliyun.com)。
+
+2.  在页面右上角单击**账号** \> **系统设置** \> **工作组管理**。
+
+3.  在**工作组管理**页面，单击目标工作组**操作**列下的**云计算资源** \> **新建云计算资源**。
+
+4.  在**新建云计算资源**页面，填写云计算资源的相关信息，单击**确定**。
+
+    |参数名称|说明|
+    |----|--|
+    |**云计算资源标识**|自定义的MongoDB云计算资源标识。|
+    |**资源存储类型**|单击下拉框选择您的云计算资源类型为 **MongoDB**。|
+    |**域名**|MongoDB的实例的公网地址。您可以通过以下步骤获取：    1.  [登录MongoDB控制台](https://mongodb.console.aliyun.com/replicate/cn-hangzhou/instances)。
+    2.  单击左侧导航栏**副本集实例列表**。
+    3.  单击**实例ID/名称**，在**连接信息公网**中获取URL信息。 |
+    |**库名**|    1.  [登录MongoDB控制台](https://mongodb.console.aliyun.com/replicate/cn-hangzhou/instances)。
+    2.  单击左侧导航栏**副本集实例列表**。
+    3.  单击**实例ID/名称**，在**基本信息** \> **连接信息** \> **公网**中获取库名信息。 |
+    |**端口**|    1.  [登录MongoDB控制台](https://mongodb.console.aliyun.com/replicate/cn-hangzhou/instances)。
+    2.  单击左侧导航栏**副本集实例列表**。
+    3.  单击**实例ID/名称**，在**基本信息** \> **连接信息** \> **公网**中获取端口信息。 |
+    |**登录用户名**|登录数据库的账号。可[登录MongoDB控制台](https://mongodb.console.aliyun.com/replicate/cn-hangzhou/instances)，单击左侧导航栏的**账号管理**进行查看。|
+    |**登录密码**|登录数据库的密码。如果忘记密码，可[登录MongoDB控制台](https://mongodb.console.aliyun.com/replicate/cn-hangzhou/instances)，单击左侧导航栏的**账号管理**进行[重置密码](https://help.aliyun.com/document_detail/54544.html?spm=a2c4g.11186623.6.580.8ae131ab7Dm0Qt)操作。|
+    |**描述**|可选项，MongoDB云计算资源的描述。|
+    |**是否校验连通性**|可选项，选择是否校验云计算资源的连通性。|
+
+

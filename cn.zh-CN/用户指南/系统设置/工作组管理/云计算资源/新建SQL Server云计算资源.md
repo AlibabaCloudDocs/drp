@@ -2,7 +2,9 @@
 
 本章节为您介绍如何新建SQL Server云计算资源。
 
-您已经购买RDS SQL Server云计算资源，并完成SQL Server快速入门，详细操作参见：[RDS SQL Server快速入门](https://help.aliyun.com/document_detail/53729.html?spm=a2c4g.11186623.6.875.3d5e48b1uMeLE8)
+您已经购买RDS SQL Server云计算资源，并完成SQL Server快速入门，详细操作参见：[RDS SQL Server快速入门](https://help.aliyun.com/document_detail/53729.html?spm=a2c4g.11186623.6.875.3d5e48b1uMeLE8)。
+
+添加云计算资源为使用数据资源平台做数据支撑。
 
 1.  登录[数据资源平台控制台](https://dataq.console.aliyun.com)。
 

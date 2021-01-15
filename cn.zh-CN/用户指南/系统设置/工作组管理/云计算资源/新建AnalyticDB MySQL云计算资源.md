@@ -10,6 +10,8 @@
 -   [导入数据](https://help.aliyun.com/document_detail/188324.html?spm=a2c4g.11186623.6.594.5c7c7c1dfdWZvS)。
 -   [申请公网地址](https://help.aliyun.com/document_detail/122252.html?spm=a2c4g.11186623.6.598.1ee62206qajuIF)。
 
+添加云计算资源为使用数据资源平台做数据支撑。
+
 1.  登录[数据资源平台控制台](https://dataq.console.aliyun.com)。
 
 2.  在页面右上角单击**账号** \> **系统设置** \> **工作组管理**。

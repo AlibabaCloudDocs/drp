@@ -2,12 +2,6 @@
 
 本章节为您介绍如何新建MaxCompute云计算资源。
 
-您已经购买MaxCompute云计算资源。
-
-新建云计算资源为使用数据资源平台做数据支撑。
-
-**准备工作**
-
 在新建MaxCompute云计算资源之前，您需要开通MaxCompute产品权限并创建项目。
 
 -   开通MaxCompute方法参见[开通MaxCompute](https://help.aliyun.com/document_detail/58226.html?spm=a2c4g.11186623.6.589.2b2e7ae21OMcMt)。
@@ -18,6 +12,10 @@
 -   在MaxCompute数据库建表和插入语句，详细参见[初始化语句](/cn.zh-CN/快速入门/准备工作.md)。
 -   创建MaxCompute数据表方法参见[创建表](https://help.aliyun.com/document_detail/27808.html?spm=a2c4g.11186623.6.597.31c26620pTTWQt)。
 -   数据导入MaxCompute数据表方法参见[导入数据](https://help.aliyun.com/document_detail/27809.html?spm=a2c4g.11186623.6.598.2cc746fevRps1u)。
+
+新建云计算资源为使用数据资源平台做数据支撑。
+
+## 操作步骤
 
 1.  登录[数据资源平台控制台](https://dataq.console.aliyun.com)。
 

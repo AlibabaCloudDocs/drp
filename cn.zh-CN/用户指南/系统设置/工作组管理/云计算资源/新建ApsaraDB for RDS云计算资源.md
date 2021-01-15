@@ -2,15 +2,7 @@
 
 本章节为您介绍如何添加和管理ApsaraDB for RDS云计算资源。
 
-您已经购买ApsaraDB for RDS云计算资源，并完成RDS快速入门，详细操作参见：[RDS快速入门](https://help.aliyun.com/document_detail/26124.html?spm=a2c4g.11186623.6.664.37dd38f8FA2Ws2)。
-
-添加云计算资源为使用数据资源平台做数据支撑。
-
-## 操作步骤
-
-**准备工作**
-
-在添加 ApsaraDB for RDS云计算资源之前，您需要：
+您已经购买ApsaraDB for RDS云计算资源，并完成RDS快速入门。
 
 -   [创建RDS MySQL实例](https://help.aliyun.com/document_detail/26117.html?spm=a2c4g.11174283.6.665.18535b83HC4Fz1)。
 -   [设置IP白名单](/cn.zh-CN/RDS MySQL 数据库/快速入门/设置白名单/设置IP白名单.md)。
@@ -18,6 +10,10 @@
 -   [创建账号和数据库](https://help.aliyun.com/document_detail/87038.html?spm=a2c4g.11186623.2.35.708540a8dzSOaO)。
 -   [连接MySQL实例](https://help.aliyun.com/document_detail/26138.html?spm=a2c4g.11186623.6.669.303238f8gRrN8t)。
 -   在RDS数据库建表和插入语句，详细参见[系统初始化语句](/cn.zh-CN/最佳实践/准备工作/系统初始化语句.md)。
+
+添加云计算资源为使用数据资源平台做数据支撑。
+
+## 操作步骤
 
 1.  登录[数据资源平台控制台](https://dataq.console.aliyun.com)。
 

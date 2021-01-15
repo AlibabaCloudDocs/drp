@@ -6,6 +6,8 @@
 
 圈选结果支持发布API供第三方调用。
 
+## 操作步骤
+
 1.  登录[数据资源平台控制台](https://dataq.console.aliyun.com)。
 
 2.  在顶部菜单栏左上角，单击**![菜单](https://static-aliyun-doc.oss-accelerate.aliyuncs.com/assets/img/zh-CN/6504337061/p188771.png)**图标，选择**数据资产中心**。

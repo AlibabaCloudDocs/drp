@@ -84,6 +84,8 @@ ${gender, string, bad, bad} ---> error
 
 定义：$\{VAR\_NAME\[,TYPE, DEFAULT\_VALUE\]\}
 
+## 用例
+
 替换查询变量
 
 ```
@@ -115,22 +117,13 @@ select user.name, user.gender from user where user.name = 'jack' order by ${o_va
 select user.name, user.gender from user where user.name = 'jack' limit ${l_var, 1000}
 ```
 
-替换order by，group by，limit等
-
-```
--- 设置group by的变量
-select user.name, user.gender from user where user.name = 'jack' group by ${g_var, user.name} 
--- 设置order by的变量
-select user.name, user.gender from user where user.name = 'jack' order by ${o_var} 
--- 设置limit的变量
-select user.name, user.gender from user where user.name = 'jack' limit ${l_var, 1000}
-```
-
 ## 函数变量
 
 变量除了可以替换查询条件中的字符串，数字等，同时也可以替换函数。
 
 定义：$FUNC\_NAME\{ARGS...\}
+
+## 用例
 
 只有函数
 
@@ -148,6 +141,8 @@ select $m_func{user.age}, user.gender from user
 3.  变量不能是sql的任何关键字。
 4.  变量的值是字符串，比如 where user.gender ='man', 变量记为 $\{gender, string, 'man'\}。
 5.  变量的传值会被转义，不能使用sql关键字，或者if，case when等条件语句，函数变量的值中不允许有空格。
+
+## 变量校验正则
 
 /\[a-zA-Z\]\[\\w\]\{0,199\}/
 

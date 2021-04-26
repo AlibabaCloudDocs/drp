@@ -1,8 +1,8 @@
-# 查看解决方案详情
+# 下载解决方案
 
-本章节为您介绍如何查看解决方案详情。
+智能数仓支持下载解决方案，方便您快速在多系统中进行解决方案的复用。
 
-已新建或导入解决方案。
+已存在解决方案。
 
 1.  登录[数据资源平台控制台](https://dataq.console.aliyun.com)。
 
@@ -10,14 +10,6 @@
 
     ![解决方案（有数据）](https://static-aliyun-doc.oss-accelerate.aliyuncs.com/assets/img/zh-CN/6754950161/p188742.png)
 
-3.  在解决方案管理列表，选择需要查看详情的解决方案，单击**详情**。
-
-4.  在解决方案详情页面，查看基本信息，单击**下一步**。
-
-    ![解决方案详情](https://static-aliyun-doc.oss-accelerate.aliyuncs.com/assets/img/zh-CN/4217160161/p188756.png)
-
-5.  在选择场景页面，可以查看选择场景，完成后单击**确定**。
-
-    ![选择方案场景查询](https://static-aliyun-doc.oss-accelerate.aliyuncs.com/assets/img/zh-CN/4217160161/p188761.png)
+3.  在解决方案管理列表中，选择需要下载的解决方案，单击**下载方案**，即在本地查看解决方案。
 
 

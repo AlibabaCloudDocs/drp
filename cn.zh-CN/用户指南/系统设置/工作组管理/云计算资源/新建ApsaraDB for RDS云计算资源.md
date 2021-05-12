@@ -9,7 +9,7 @@
 -   [申请外网地址](https://help.aliyun.com/document_detail/26128.html?spm=a2c4g.11186623.2.34.708540a8dzSOaO)。
 -   [创建账号和数据库](https://help.aliyun.com/document_detail/87038.html?spm=a2c4g.11186623.2.35.708540a8dzSOaO)。
 -   [连接MySQL实例](https://help.aliyun.com/document_detail/26138.html?spm=a2c4g.11186623.6.669.303238f8gRrN8t)。
--   在RDS数据库建表和插入语句，详细参见[系统初始化语句](/cn.zh-CN/最佳实践/准备工作/系统初始化语句.md)。
+-   在RDS数据库建表和插入语句，详细参见[准备数据](/cn.zh-CN/最佳实践/准备工作/系统初始化语句.md)。
 
 添加云计算资源为使用数据资源平台做数据支撑。
 

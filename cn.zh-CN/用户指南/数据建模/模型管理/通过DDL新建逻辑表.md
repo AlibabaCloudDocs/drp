@@ -10,11 +10,11 @@
 
 1.  登录[数据资源平台控制台](https://dataq.console.aliyun.com)。
 
-2.  在左侧选择**研发工作台**，在顶部菜单栏单击**资产加工**，左侧导航栏选择**![数据建模](https://static-aliyun-doc.oss-accelerate.aliyuncs.com/assets/img/zh-CN/9392067061/p190187.png)数据建模** \> **数据模型设计** \> **模型管理**。
+2.  在左侧选择**研发工作台**，在顶部菜单栏单击**资产加工**，左侧导航栏选择**![数据建模.png](https://static-aliyun-doc.oss-accelerate.aliyuncs.com/assets/img/zh-CN/1205259161/p268674.png)数据建模** \> **数据模型设计** \> **模型管理**。
 
 3.  在**数据模型**页面，单击**DDL新建**。
 
-    ![数据模型列表.png](https://static-aliyun-doc.oss-accelerate.aliyuncs.com/assets/img/zh-CN/9803067061/p190654.png)
+    ![DDL新建.png](https://static-aliyun-doc.oss-accelerate.aliyuncs.com/assets/img/zh-CN/9050080261/p272089.png)
 
 4.  在**通过DDL新建**页面，输入DDL语句，单击**确定**。
 

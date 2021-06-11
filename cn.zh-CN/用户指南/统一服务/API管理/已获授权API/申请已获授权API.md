@@ -6,11 +6,11 @@ API已上架成功。
 
 1.  登录[数据资源平台控制台](https://dataq.console.aliyun.com)。
 
-2.  在菜单栏左上角，单击**![菜单](https://static-aliyun-doc.oss-accelerate.aliyuncs.com/assets/img/zh-CN/6504337061/p188771.png)** \> **研发工作台** \> **资产加工**。
+2.  在菜单栏左上角，单击**![菜单](https://static-aliyun-doc.oss-accelerate.aliyuncs.com/assets/img/zh-CN/6504337061/p188771.png)** \> **研发工作台**。
 
-3.  单击**![统一服务](https://static-aliyun-doc.oss-accelerate.aliyuncs.com/assets/img/zh-CN/0702579161/p268584.png)** \> **API管理** \> **已获授权API**。
+3.  在顶部菜单栏单击**资产加工**，并在左侧导航栏选择**![统一服务](https://static-aliyun-doc.oss-accelerate.aliyuncs.com/assets/img/zh-CN/0702579161/p268584.png)** \> **API管理** \> **已获授权API**。
 
-4.  在**已获授权API**列表，选择需要申请授权的API，并单击该API的名称。
+4.  在**已获授权API**列表，单击需要申请授权API的名称。
 
 5.  在**基本信息**页面，单击**立即申请**。
 
@@ -18,11 +18,11 @@ API已上架成功。
 
     ![新增应用](https://static-aliyun-doc.oss-accelerate.aliyuncs.com/assets/img/zh-CN/7194409951/p140314.png)
 
-7.  进入**API申请单**面板，选择应用名称，输入申请原因，选择使用期限，填写应用流量控制，单击**提交**。
+7.  在**API申请单**面板，选择应用名称，输入申请原因，选择使用期限，填写应用流量控制，单击**提交**。
 
-    ![API信息](https://static-aliyun-doc.oss-accelerate.aliyuncs.com/assets/img/zh-CN/7194409951/p140317.png)
+    ![015](https://static-aliyun-doc.oss-accelerate.aliyuncs.com/assets/img/zh-CN/4045133261/p282035.png)
 
-8.  进入我的审批，通过审批，详细请参见[我的审批](/cn.zh-CN/用户指南/系统设置/我的审批.md)。
+8.  进入我的审批页面，通过审批，详细请参见[我的审批](/cn.zh-CN/用户指南/系统设置/我的审批.md)。
 
 9.  返回已获授权API列表，查看申请成功的API。
 

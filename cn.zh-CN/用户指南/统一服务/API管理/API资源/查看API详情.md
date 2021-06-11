@@ -8,9 +8,9 @@ API详情可查看API的基本信息、API配置信息、响应示例和流量�
 
 1.  登录[数据资源平台控制台](https://dataq.console.aliyun.com)。
 
-2.  在菜单栏左上角，单击**![菜单](https://static-aliyun-doc.oss-accelerate.aliyuncs.com/assets/img/zh-CN/6504337061/p188771.png)** \> **研发工作台** \> **资产加工**。
+2.  在菜单栏左上角，单击**![菜单](https://static-aliyun-doc.oss-accelerate.aliyuncs.com/assets/img/zh-CN/6504337061/p188771.png)** \> **研发工作台**。
 
-3.  单击**![统一服务](https://static-aliyun-doc.oss-accelerate.aliyuncs.com/assets/img/zh-CN/0702579161/p268584.png)** \> **API管理** \> **API资源**。
+3.  在顶部菜单栏单击**资产加工**，并在左侧导航栏选择**![统一服务](https://static-aliyun-doc.oss-accelerate.aliyuncs.com/assets/img/zh-CN/0702579161/p268584.png)** \> **API管理** \> **API资源**。
 
 4.  在API资源列表，选择需要查看详情的API，并单击该API的名称，查看详情信息。
 

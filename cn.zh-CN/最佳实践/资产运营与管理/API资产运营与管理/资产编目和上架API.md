@@ -2,9 +2,9 @@
 
 本章节为您介绍创建资产目录和上架API资产的操作。
 
-您已完成发布API，请参见[发布API](/cn.zh-CN/最佳实践/资产运营与管理/API资产运营与管理/发布API.md)。
+您已完成API上线，请参见[创建数据API并上线](/cn.zh-CN/最佳实践/资产运营与管理/API资产运营与管理/创建数据API.md)。
 
-所有资产编目和上线成功后才可以对外提供申请使用功能。
+所有资产编目和上架成功后才可以对外提供申请使用功能。
 
 ## 创建资产目录
 
@@ -41,34 +41,24 @@
     ![查看目录](https://static-aliyun-doc.oss-accelerate.aliyuncs.com/assets/img/zh-CN/7788060161/p205118.png)
 
 
-## 上线API资产
+## 上架API
+
+将已上线的API上架到公开市场后，可供其他工作组申请使用。
 
 1.  登录[数据资源平台控制台](https://dataq.console.aliyun.com)。
 
-2.  在页面左上角单击![菜单](https://static-aliyun-doc.oss-accelerate.aliyuncs.com/assets/img/zh-CN/6504337061/p188771.png)，选择**运营工作台**，在顶部菜单栏单击**资产管理**。
+2.  在菜单栏左上角，单击**![菜单](https://static-aliyun-doc.oss-accelerate.aliyuncs.com/assets/img/zh-CN/6504337061/p188771.png)** \> **研发工作台**。
 
-3.  在左侧菜单栏单击**资产对象管理** \> **API资产管理**，勾选API名称，单击**修改目录**，弹出**修改目录**页面，修改目录后，单击**确定**。
+3.  在顶部菜单栏单击**资产加工**，并在左侧菜单栏选择**![统一服务](https://static-aliyun-doc.oss-accelerate.aliyuncs.com/assets/img/zh-CN/0702579161/p268584.png)** \> **API管理** \> **上架API管理**。
 
-    修改目录配置如下表所示：
+4.  选择要上架的API，单击**上架**。
 
-    |所属自定义目录|
-    |-------|
-    |根据证件号码查询银行客户信息|
+5.  在API上架申请页面，选择类目，填写申请原因，单击**提交**。
 
-4.  弹出**修改目录**页面后，如果没有合适目录，请单击**+添加所属目录**，操作完成后单击**确定**，页面显示操作成功。
+6.  进入我的审批页面，通过审批，详细请参见[我的审批](/cn.zh-CN/用户指南/系统设置/我的审批.md)。
 
-    所属类目配置如下表所示：
+7.  审批成功后，返回**API列表**，查看该API状态，当状态为**已上架**，表示上架成功。
 
-    |所属类目|API名称|
-    |----|-----|
-    |部门/公司银行部|根据证件号码查询银行客户信息|
-
-5.  勾选API名称，单击**公开**，弹出**公开成功**提示。
-
-6.  在顶部菜单栏单击![菜单](https://static-aliyun-doc.oss-accelerate.aliyuncs.com/assets/img/zh-CN/6504337061/p188771.png)，选择**数据资产中心**，单击顶部菜单栏的**资产目录**。
-
-7.  单击**API**页签，查看上线API。
-
-    ![API资产查看](https://static-aliyun-doc.oss-accelerate.aliyuncs.com/assets/img/zh-CN/7788060161/p205173.png)
+    ![上架](https://static-aliyun-doc.oss-accelerate.aliyuncs.com/assets/img/zh-CN/6609373261/p282591.png)
 
 

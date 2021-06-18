@@ -12,13 +12,13 @@
 
 2.  在页面左上角，单击![工作台](https://static-aliyun-doc.oss-accelerate.aliyuncs.com/assets/img/zh-CN/4682213261/p280916.png)图标，选择**研发工作台**。
 
-3.  在顶部菜单栏，单击**资产加工**。
+3.  在顶部菜单栏，选择**资产加工**。
 
-4.  在左侧导航栏，选择**![数据建模.png](https://static-aliyun-doc.oss-accelerate.aliyuncs.com/assets/img/zh-CN/4960303261/p268674.png)数据建模** \> **数据模型设计**。
+4.  左侧导航栏，选择**![数据建模.png](https://static-aliyun-doc.oss-accelerate.aliyuncs.com/assets/img/zh-CN/4960303261/p268674.png)数据建模** \> **数据模型设计**。
 
-5.  在数据模型下，选择需要的目录，单击**![目录](https://static-aliyun-doc.oss-accelerate.aliyuncs.com/assets/img/zh-CN/5682213261/p280932.png)**。
+5.  在数据模型下，选择需要的目录，单击![目录](https://static-aliyun-doc.oss-accelerate.aliyuncs.com/assets/img/zh-CN/7549793261/p284424.png)。
 
-6.  在目录右侧页面，单击**DDL新建**。
+6.  在右侧逻辑表列表页面，单击**DDL新建**。
 
     ![ddl新建](https://static-aliyun-doc.oss-accelerate.aliyuncs.com/assets/img/zh-CN/6682213261/p281157.png)
 

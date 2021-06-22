@@ -15,11 +15,11 @@ API列表
 
    
 
-2. 在左侧选择 **研发工作台** ，顶部的菜单栏单击 **解决方案** ，在左侧导航栏单击 **API列表** 。
+2. 在页面左上角单击![导航图标 ](https://static-aliyun-doc.oss-accelerate.aliyuncs.com/assets/img/zh-CN/6402159161/p268802.png)图标，选择 **研发工作台** ，单击顶部菜单 **解决方案** 。
 
    
 
-3. 单击 **API管理** **\>** **导入导出** **\>** **API列表** 。![API列表.png](https://static-aliyun-doc.oss-accelerate.aliyuncs.com/assets/img/zh-CN/8980080261/p259652.png)
+3. 在左侧导航栏单击 **数据服务** **导入导出** \> **API列表** 。![API列表.png](https://static-aliyun-doc.oss-accelerate.aliyuncs.com/assets/img/zh-CN/8980080261/p259652.png)
 
    
 
